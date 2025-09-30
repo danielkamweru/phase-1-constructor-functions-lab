@@ -1,4 +1,5 @@
 require ( './helpers.js' );
+// test/indexTest
 
 describe('objects', function() {
   describe('Scooter constructor', function(){
